@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1e2e53"/>
+  <svg x="81.91999999999999" y="115.71199999999999" width="348.16" height="280.576" viewBox="0 0 340 274" overflow="visible">
+    <defs>
+      <linearGradient id="gl" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0" gradientTransform="matrix(0,121.597885,-121.597885,0,401.3321,369.5805)">
+        <stop offset="0" stop-color="#f3f3f5"/><stop offset="1" stop-color="#8d8dc7"/>
+      </linearGradient>
+    </defs>
+    <g transform="translate(-241.38996,-233.630384)">
+      <g transform="matrix(3.958426,0,0,3.958426,-1183.643245,-1143.945213)">
+        <path d="M360,417L403,348.011C403,348.011 406.104,353.064 407.95,355.942C414.399,366 413.646,372.724 408.306,381.311L386,417L360,417Z" fill="url(#gl)"/>
+      </g>
+      <g transform="matrix(3.958426,0,0,3.958426,-1179.684819,-1143.945213)">
+        <path d="M392,417L421.306,369.49C421.306,369.49 437.639,395.623 442.588,403.541C445.206,407.729 447.694,416.751 437,417C428.278,417.203 392,417 392,417Z" fill="url(#gl)"/>
+      </g>
+    </g>
+  </svg>
+</svg>
